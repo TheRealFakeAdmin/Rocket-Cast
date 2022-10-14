@@ -1,0 +1,27 @@
+{
+  "name": "rocket-cast_server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealFakeAdmin/Rocket-Cast.git"
+  },
+  "keywords": [
+    "rtmp",
+    "streaming",
+    "rocket",
+    "livestream",
+    "stream",
+    "live"
+  ],
+  "author": "TheRealFakeAdmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRealFakeAdmin/Rocket-Cast/issues"
+  },
+  "homepage": "https://github.com/TheRealFakeAdmin/Rocket-Cast#readme"
+}
